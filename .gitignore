@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log
+
+# Vector database
+rag/vectorstore/
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
