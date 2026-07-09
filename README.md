@@ -366,7 +366,7 @@ https://customer-support-agent-johnsparz.streamlit.app/
 
 **John Arije**
 
-Computer Science Graduate | AI Engineer | Machine Learning Enthusiast
+Computer Science Graduate | AI Engineer | Machine Learning Engineer
 
 GitHub: https://github.com/johnsparz
 
