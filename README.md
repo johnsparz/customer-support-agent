@@ -17,7 +17,7 @@
 https://customer-support-agent-johnsparz.streamlit.app/
 
 **Demo Video:**  
-*(Google Drive or YouTube link will be added here after recording the demonstration.)*
+https://drive.google.com/file/d/1XpqYrPwECTlUVKwLOyJ3obQ5Lk9cg3Lp/view
 
 ---
 
@@ -277,7 +277,7 @@ streamlit run app.py
 
 ### Calculator
 
-- Calculate 875 × 46
+-  875 * 46
 
 ### Web Search
 
@@ -358,13 +358,13 @@ https://customer-support-agent-johnsparz.streamlit.app/
 
 ### Demonstration Video
 
-*To be added after recording.*
+https://drive.google.com/file/d/1XpqYrPwECTlUVKwLOyJ3obQ5Lk9cg3Lp/view
 
 ---
 
 # 👨‍💻 Author
 
-**John Arije**
+**John Arije (johnsparz)**
 
 Computer Science Graduate | AI Engineer | Machine Learning Engineer
 
